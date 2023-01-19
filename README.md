@@ -1,4 +1,9 @@
  # cot-4500-intro
- Include instructions on how to compile code. 
- 
- python intro_to_python.py
+ # Instructions for Windows Device
+Download the intro_to_python.py file, and open the folder its in.
+
+Click the address bar, and type cmd.
+
+When the command center pops up with the file's address, type the command: "python intro_to_python.py"
+
+The program should run in the command center window.
