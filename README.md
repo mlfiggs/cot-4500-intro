@@ -1,6 +1,6 @@
  # cot-4500-intro
  # Instructions for Windows Device
-Download the src file, and open the folder its in.
+Download the src file, and open the main folder so you can see the python file titled "intro_to_python.py"
 
 Click the address bar, and type cmd.
 
